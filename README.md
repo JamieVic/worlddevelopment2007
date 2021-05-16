@@ -3,6 +3,7 @@
 This data science project provides a scatter plot diagram on country development based on their GDP and life expectancy.  There are also variables that contain conditions to subset the data.
 ## The Data
 ![scatter plot](https://i.imgur.com/BoDYbCs.png)
+
 Each blue dot on the diagram represents a country. The larger the dot, the higher the population of that country. The diagram illustrates that generally if a country has a higher GDP, their population lives longer. It also shows a majority of higher populated countries have a middle to high GDP over the smaller countries.
 
 Using the low_dev and high_dev variables, we're able to subset the data and find which countries are considered low and high developed based on GDP and life expectancy conditions. Based on those conditions, there are 56 low developed countries and 40 high developed countries in the data frame.
